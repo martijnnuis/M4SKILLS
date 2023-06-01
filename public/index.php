@@ -10,7 +10,7 @@
     <form action="../private/afhandeling.php" method="post">
         <div>
             <input type="email" name="email">
-            <input type="password" name="passwd">
+            <input type="checkbox" name="check">
         </div>
         <button type="submit">verzenden</button>
     </form>
